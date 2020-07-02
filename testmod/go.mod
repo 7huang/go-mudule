@@ -1,3 +1,3 @@
-module github.com/objcoding/testmod
+module network
 
 go 1.14
