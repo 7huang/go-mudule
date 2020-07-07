@@ -1,3 +1,3 @@
-module github.com/7huang/go-mudule/testmod
+module github.com/7huang/testmod
 
 go 1.14
